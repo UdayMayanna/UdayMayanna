@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UdayMayanna
 - 👀 I’m interested in java Fullstack Development
 - 🌱 I’m currently learning in SITCOE,yadrav,Ichalkarnji
-- 💞️ I’m looking to collaborate on ...
+- I’m currently looking for internships and PPO..
 - 📫 How to reach me email-mayannauday9@gmail.com
 
 <!---
