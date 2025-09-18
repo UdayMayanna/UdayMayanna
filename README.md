@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @UdayMayanna
-- 👀 I’m interested in java Fullstack Development
-- 🌱 I’m currently learning in SITCOE,yadrav,Ichalkarnji
-- I’m currently looking for internships and PPO..
-- 📫 How to reach me email-mayannauday9@gmail.com
+# 👋 Hi, I’m Uday Mayanna  
 
-<!---
-UdayMayanna/UdayMayanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I completed my **B.Tech in 2024** from SITCOE, Yadrav, Ichalkaranji with a CGPA of **8.13**  
+- 👀 I’m interested in **Java, Java Full Stack (JFS), and Frontend Development**  
+- 🌱 I’m currently learning and building projects in **Java, Spring Boot, and modern web technologies**  
+- 💼 I’m actively looking for **internships and PPO opportunities**  
+- 📫 Reach me at: **mayannauday9@gmail.com** 
